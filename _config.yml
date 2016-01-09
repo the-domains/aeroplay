@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.8086295
+  brandStrength: 0.3207885
+  lightness: 0.4408602
+  brandColors:
+    - '#D8BCA2'
+    - '#150F14'
+    - '#6E4230'
+    - '#FFF1DF'
+    - '#E0926D'
+  rhythmicContrast: 0.281362
+typography_spectrum: 0.2455197
+name: Aeroplay
